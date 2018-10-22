@@ -1,4 +1,4 @@
-###Introduction
+## Introduction ##
 
 
 Download kafka from here: https://kafka.apache.org/downloads
